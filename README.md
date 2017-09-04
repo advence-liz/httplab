@@ -4,6 +4,7 @@ test for http
 
 - [httpie github](https://github.com/jakubroztocil/httpie)
 - [httpie 中英文对照](https://coyee.com/article/compare/10915-httpie-cli-http-client-user-friendly-curl-replacement-with-intuitive-ui)
+- [httpie 入门](http://blog.csdn.net/pzw_0612/article/details/46521965)
 
 
 ## tip
