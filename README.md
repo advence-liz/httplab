@@ -6,7 +6,10 @@ test for http
 - [httpie 中英文对照](https://coyee.com/article/compare/10915-httpie-cli-http-client-user-friendly-curl-replacement-with-intuitive-ui)
 - [httpie 入门](http://blog.csdn.net/pzw_0612/article/details/46521965)
 
-
+## python
+直接将python 目录和 python 下的scripts 目录加到环境变量下 
+pyhton 中有 python.exe Scripts 下游 pip.exe
+pip install 下载到 lib /site-packages 下
 ## tip
 
 ```c#
